@@ -1,0 +1,22 @@
+.manhattan {
+    color: red;
+}
+
+.brooklyn {
+    color : blue;
+}
+
+.queens {
+color : silver;
+}
+
+.staten-island {
+color : gold;
+}
+
+.bronx {
+color : purple;
+}
+body{
+    background-color: green;
+}
